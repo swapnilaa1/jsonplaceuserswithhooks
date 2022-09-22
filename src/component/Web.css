@@ -1,0 +1,31 @@
+.mid{
+    display: inline;
+}
+.left
+{
+    text-align: left;
+    font-weight: bold;
+}
+.left-only
+{
+    text-align: left;
+    
+}
+.m-left
+{
+    margin: top 10px; ;
+}
+.ip{
+    height: 25px;
+    width: 250px;
+}
+.ip2
+{
+    height: 25px;
+    width: 120px;
+}
+ul.no-bullets {
+    list-style-type: none; /* Remove bullets */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margins */
+  }
